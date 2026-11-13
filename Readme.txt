@@ -1,1 +1,1 @@
-This folder is for Django.
+This is for Django.
